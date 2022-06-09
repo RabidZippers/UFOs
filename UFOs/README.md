@@ -12,13 +12,16 @@
 
 ## Results
 While there are many results across the world
-![UFO_sightings](https://github.com/RabidZippers/UFOs/blob/main/UFOs/index.html)
+![UFO_sightings](https://github.com/RabidZippers/UFOs/blob/main/UFOs/Resources/UFO_sightings.jpg)
 
 My interest was within my home state of North Carolina
 ![UFO_sightings](https://github.com/RabidZippers/UFOs/blob/main/UFOs/Resources/NC_Sightings.jpg)
 
+But California had the most sightings with 30 in 2010 (a snippet of sightings)
+![UFO_sightings](https://github.com/RabidZippers/UFOs/blob/main/UFOs/Resources/California_sightings.jpg)
+
 # Summary
-There are a couple of drawbacks to the webpage and possible recommendations are suggested for further development of the webpage. 
+There are a couple of drawbacks to this webpage and a recommendation for further development. 
 
 * **Drawbacks:**
-* It is great that one can filter through the data, however, it would be helpful if the search filter boxes can include a dropdown so that users can easily select the data contained within those fields. 
+* It is great that are able to filter through the data, but if the search boxes were changed into a dropdown box it would allow users to select the data contained within those field more efficently.
